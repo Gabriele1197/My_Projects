@@ -1,2 +1,2 @@
 # My_Projects
-My Data Analysis Portfolio
+In the wiki section you can find the projects descriptions
